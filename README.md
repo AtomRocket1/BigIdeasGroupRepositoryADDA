@@ -1,2 +1,2 @@
 # BigIdeasGroupRepositoryADDA
-Big Ideas
+Abhi Dangeti, David Altman
